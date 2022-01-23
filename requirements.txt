@@ -1,7 +1,2 @@
-os
-dotenv
 gunicorn
 telethon
-logging
-json
-re
