@@ -2,3 +2,9 @@
 .env
 *.session
 .history
+
+#Heroku
+Procfile.windows
+Procfile
+requirements.txt
+runtime.txt
