@@ -1,3 +1,4 @@
+os
 dotenv
 gunicorn
 telethon
