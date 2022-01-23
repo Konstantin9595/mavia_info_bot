@@ -1,16 +1,14 @@
-from http import client
 from telethon import TelegramClient, events, types, Button
 
-import dotenv as env
+import dotenv
 import logging
-import os
 import json
 import re
 
 ENV_PATH = '.env'
-API_ID = env.get_key(ENV_PATH, 'API_ID')
-API_HASH = env.get_key(ENV_PATH, 'API_HASH')
-BOT_TOKEN = env.get_key(ENV_PATH, 'BOT_TOKEN')
+API_ID = dotenv.get_key(ENV_PATH, 'API_ID')
+API_HASH = dotenv.get_key(ENV_PATH, 'API_HASH')
+BOT_TOKEN = dotenv.get_key(ENV_PATH, 'BOT_TOKEN')
 
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s', level=logging.WARNING)
 
