@@ -1,0 +1,30 @@
+{
+    "en": {
+        "title": "Command list",
+        "commands": [
+            {"type": "intro", "command": "/intro", "short_desc": "Introduction to the Blockchain-Based Heroes of Mavia Game."},
+            {"type": "gameplay", "command": "/gameplay", "short_desc": "Gameplay details"},
+            {"type": "tokens", "command": "/tokens", "short_desc": "Heroes of Mavia Tokens"},
+            {"type": "nfts", "command": "/nfts", "short_desc": "Three different types of NFTs, each with their own uniqie puprose and value in the game"},
+            {"type": "earn", "command": "/earn", "short_desc": "How to earn. Economic model of the game"},
+            {"type": "platforms", "command": "/platforms", "short_desc": "List of supported gaming platforms"},
+            {"type": "team", "command": "/team", "short_desc": "Core developers team"},
+            {"type": "more", "command": "/more", "short_desc": "More info about project. Sites, Socials, Game Deck"}
+        ],
+        "full_command_desc": {
+            "intro": "Heroes of Mavia is an online multiplayer blockchain-based strategy game where players use their base and army to battle other players and compete for real cryptocurrency in a play-to-earn fashion. Player can purchase, rent, or partner with landowners to acquire and build a base in the game, earning more rewards as they battle with increasingly difficult bases built by other players around the world.\n\nMavia was inspired by two of the largest games: Axie Infinity(blockchain) & Clash of Clans(mobile) taking the best elements from each and combining the into an experience never seen before.",
+            "gameplay": "The player's objective is to grow their base and army by using ressources in the game gained from attacking other players bases. The main resources in the game are Gold, Oil, and Ruby, with Ruby ($RUBY) being one of the two cryptocurrencies used in Mavia's Dual Token model.\n\n🌎🛩**Build your Ground and Air Forces**\nYour army consists of Vehicle, Infantry, and Air units, each with a clear tactical advantage.\n\n🛡**Assemble your Defensive Army**\nDefensive buildings and units attack your opponent's army and can be upgraded to increase their power and defensive abilities.\n\n🏰**Level up your HQ**\nAt the core of any base is the Headquarters, and upgrading the HQ level allows for more advanced buildings, traps, and troops to be build.\n\n🗼**Maximize your Walls and Towers**\nWalls are the primary defense protecting your base and buildings from attackers. Walls can be upgraded and strategically positioned to funnel oponents into traps.\n\n🕸**Deploy Traps and Decoys**\nTraps make it easier to defend your base against opponents and are typically hidden from attackers untill their troops come in contract with the trap.\n\n⚔️**Upgrade NFT Heroes**\nHeroes defend your base from opponents and can also be used in offensive strikes. All Heroes have Special Powers which can be used in attacks.",
+            "tokens": "The Mavia ecosystem is powered by two cryptocurrencies: MAVIA & RUBY\n\n**MAVIA:**\nMAVIA is the governance token and the only currency used to echange NFTs on the Mavia marketplace.\n\n👨‍⚖️ **Governance Token**\n🔄**Currency used for Buying and Sellinf NFTs**\n💲**Staking Rewards and Staking NFT Prizes**\n🌏**MAVIA is not an in-game ressource**\n\n**RUBY:**\nRUBY is the in-game 'play-to-earn' reward currency that allows players to upgrade their NFTs.\n\n🎁**Reward Token**\n🎮**Used primarily in-game for upgrading NFTs**\n💴**Can be deposited and withdrawn from game**\n🔥**RUBY spent in-game will be burned automatically**",
+            "nfts": "🗺**Bases/Land**\nBases are at the core of the heroes of Mavia, and owning a base is required to play.\n\n🦸**Heroes**\nHeroes assis the player in both attacking opponent bases, as well as protecting the home base defensive battles.\n\n🗽**Statues**\nStatues can be placed on a base to give boost to base stats, production rates and more.\n\nDetailed information about each type of nft on [this](https://statics.mavia.com/landing/public/game_deck_en.pdf#page=8) page",
+            "earn": "**Playing**\nPlayers are able to earn RUBY when successfully attacking an opponents's base, but they can also earn RUBY for successfully defending their base from an enemy's attack with little-to-no damage, making it possible to earn even while not playing the game.\n\n**Buying and Selling gaming NFTs on Mavia Marketplace**\nFor example: The owner of the base can sell the land on the Mavia marketplace for MAVIA token, passing down all of the progress made on the base to the new owner.\n\n**Renting out base**\nBase owners are able to rent out their base according to a range of dates and a price set by the owner. The tenant of the base will pay upfront MAVIA to the owner, but will in turn be able to earn and keep all of the RUBY generated from using the base. This includes RUBY won from battling opponents, successful defensive battles, completing challenges, finding rare items, and other events which earn players RUBY. The owner of the base will not benefit from this RUBY being generated by the player, but will instead be generating passive income in the form of MAVIA from the rental agreement.",
+            "platforms": "🖥 **Desktop Web**\n📱**Mobile web** / **Android app** / **iOS app**",
+            "team": "[**SKRICE STUDIO**](https://statics.mavia.com/landing/public/game_deck.pdf#page=22)",
+            "more": "🌐**Official site**\n\n- https://www.mavia.com/\n\n🔵**Social networks**\n\n-Telegram: https://t.me/MaviaAnnouncements\n-Discord: https://discord.com/invite/maviaofficial\n-Twitter: https://twitter.com/MaviaGame\n-YouTube: https://www.youtube.com/channel/UCEsG9bqZilH29cW6gC5oApQ\n-Medium: https://medium.com/heroes-of-mavia\n\n📄**Game Deck**\n\n- https://statics.mavia.com/landing/public/game_deck_en.pdf"
+        }
+    },
+    "ru": {
+        "title": "",
+        "commands": "",
+        "full_command_desc": ""
+    }
+}
